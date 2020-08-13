@@ -1,11 +1,3 @@
-/*
- * I2C_MPU9150.cpp
- *
- *  Created on: Oct 14, 2013
- *      Author: Victor Zappi
- */
-
-
 #include "I2C_MPU9150.h"
 #include <iostream>
 
